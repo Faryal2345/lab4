@@ -1,4 +1,4 @@
-case one
+
 import java.util.Scanner;
 
 public class ConvertDay {
