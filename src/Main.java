@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ConvertDay {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -44,11 +44,11 @@ public class ConvertDay {
         scanner.close();
     }
 }
-import java.util.Scanner;
 
-public class CoffeeShop {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+
+//public class CoffeeShop {
+//    public static void main(String[] args) {
+/*        Scanner scanner = new Scanner(System.in);
 
         // Display menu
         System.out.println("Welcome to Java Coffee Shop!");
@@ -121,4 +121,4 @@ public class CheckPrime {
 
         scanner.close();
     }
-}
+}*/
